@@ -1,0 +1,19 @@
+{
+  "name": "learning-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawn-yang-1979/learning-node-js.git"
+  },
+  "author": "Shawn Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawn-yang-1979/learning-node-js/issues"
+  },
+  "homepage": "https://github.com/shawn-yang-1979/learning-node-js#readme"
+}
